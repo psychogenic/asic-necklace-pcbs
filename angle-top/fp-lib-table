@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ASICTechno")(type "KiCad")(uri "${KIPRJMOD}/../ASICTechno.pretty")(options "")(descr ""))
+)

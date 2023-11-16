@@ -1,0 +1,25 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 52eba777-edc0-44a6-99b1-fa3600a1f73b)
+
+  (paper "User" 200 70.0024)
+
+  (title_block
+    (title "Top module PCB: angled link")
+    (company "Psychogenic Technologies INC")
+    (comment 1 "(C) 2023 Pat Deegan")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Blank schem: purely decorative PCB, see layout" (at 48.26 20.32 0)
+    (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
+    (uuid 698850c8-d939-4de3-bf57-837923107cea)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

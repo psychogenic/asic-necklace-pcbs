@@ -1,0 +1,58 @@
+### Footprint positions - created on Mon 30 Oct 2023 04:24:54 PM ###
+### Printed by KiCad version 7.0.8-7.0.8~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                  Package                                                PosX       PosY       Rot  Side
+J1        FFC2B28-06-G         GCT_FFC2B28-06-G                                    60.4000    36.9500  -60.0000  bottom
+J2        Conn_01x02           JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical               17.2763    12.4034  122.0000  bottom
+J3        Conn_02x04_Odd_Even  PinHeader_2x04_P2.54mm_Vertical_SMD                 24.4000    22.4000  180.0000  bottom
+J4        FFC2B28-06-G         GCT_FFC2B28-06-G                                     6.2000    36.9000   60.0000  bottom
+J5        Conn_01x02           JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal    21.0650     8.1760   32.0000  bottom
+J9        LEDStringPads        LEDStringPads                                        9.2235    35.4350   60.0000  bottom
+J10       LEDStringPads        LEDStringPads                                       57.3835    35.4250  -60.0000  bottom
+C1        100nF                C_0402_1005Metric                                   33.0000    41.1000  180.0000  top
+C2        100nF                C_0402_1005Metric                                   41.2800    36.3800  -90.0000  top
+C3        1uF                  C_0402_1005Metric                                   52.9000    36.7000   30.0000  top
+C5        1uF                  C_0402_1005Metric                                   13.6000    36.7000  150.0000  top
+C6        100nF                C_0402_1005Metric                                   36.3950    20.2750  -90.0000  top
+C7        100nF                C_0402_1005Metric                                   29.5950    20.3750   90.0000  top
+C8        100nF                C_0402_1005Metric                                   36.7800    33.0750   90.0000  top
+C9        100nF                C_0402_1005Metric                                   37.3950    20.2750   90.0000  top
+C10       100nF                C_0402_1005Metric                                   26.9950    23.0750  180.0000  top
+C11       100nF                C_0402_1005Metric                                   26.9950    26.8750  180.0000  top
+C12       100nF                C_0402_1005Metric                                   30.5950    33.0750   90.0000  top
+C13       100nF                C_0402_1005Metric                                   37.7800    33.0750   90.0000  top
+C14       100nF                C_0402_1005Metric                                   39.7950    27.1750  180.0000  top
+C16       10uF                 C_0603_1608Metric                                   37.9950    14.5950  -90.0000  top
+C17       100nF                C_0402_1005Metric                                   36.2950    13.0950  -90.0000  top
+C18       10uF                 C_0603_1608Metric                                   32.7575    14.5950  -90.0000  top
+C19       10uF                 C_0603_1608Metric                                   29.0900     3.5900  180.0000  top
+C20       10uF                 C_0603_1608Metric                                   38.2950     1.1950    0.0000  top
+C21       10uF                 C_0603_1608Metric                                   29.0900    10.0900    0.0000  top
+C22       100nF                C_0402_1005Metric                                   37.8000     2.4950    0.0000  top
+C23       100nF                C_0402_1005Metric                                   28.5950    11.5950    0.0000  top
+D1        LED                  LED_0603_1608Metric                                 32.7000    17.8000   90.0000  top
+D2        LED                  LED_0603_1608Metric                                 38.3000    41.4000   90.0000  top
+F1        750mA                Fuse_0805_2012Metric                                35.2575    15.1950  180.0000  top
+R1        10k                  R_0402_1005Metric                                   57.7000    31.2000   30.0000  top
+R4        10k                  R_0402_1005Metric                                   23.5250    39.2450    0.0000  top
+R5        10k                  R_0402_1005Metric                                   35.4250    36.8450  180.0000  top
+R6        10k                  R_0402_1005Metric                                   56.0000    30.2000  -150.0000  top
+R7        10k                  R_0402_1005Metric                                    8.9000    31.2000  150.0000  top
+R8        10k                  R_0402_1005Metric                                   10.6000    30.2000  -30.0000  top
+R9        10k                  R_0402_1005Metric                                   35.4250    35.5450  180.0000  top
+R10       10k                  R_0402_1005Metric                                   23.5250    38.0450    0.0000  top
+R11       0R                   R_0603_1608Metric                                   15.1000    18.8000   90.0000  top
+R12       10k                  R_0402_1005Metric                                   23.5250    36.8450  180.0000  top
+R13       10k                  R_0402_1005Metric                                   35.4250    38.1450    0.0000  top
+R14       510                  R_0402_1005Metric                                   36.7000    41.4000   90.0000  top
+R15       510                  R_0402_1005Metric                                   31.3000    17.2000   90.0000  top
+R16       0R                   R_0603_1608Metric                                   16.6000    18.8000   90.0000  top
+SW2       TBD                  SW_SPST_TL3342                                       9.4700    34.9900  150.0000  top
+SW3       TBD                  SW_SPST_TL3342                                      57.0700    35.0100  -150.0000  top
+U1        Caravel_QFN          QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm               33.3400    26.7400  180.0000  top
+U2        W25Q32JVSS           SOIC-8_5.23x5.23mm_P1.27mm                          29.5200    37.4400    0.0000  top
+U3        AZ1117-3.3           SOT-223-3_TabPin2                                   35.4000     7.5000  -90.0000  top
+U4        AP2112K-1.8          SOT-23-5                                            29.2950     6.7950   90.0000  top
+X1        10MHz                Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm     38.9800    35.8800  -90.0000  top
+## End

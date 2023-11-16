@@ -1,0 +1,25 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 2fac4a4d-0bd3-408a-8518-c178f6dfb2f7)
+
+  (paper "User" 200 70.0024)
+
+  (title_block
+    (title "Top module PCB: straight link")
+    (company "Psychogenic Technologies INC")
+    (comment 1 "(C) 2023 Pat Deegan")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Blank schem: purely decorative PCB, see layout" (at 43.18 20.32 0)
+    (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
+    (uuid dad9fae7-b9b4-43e6-9d0e-db4171f150ab)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
