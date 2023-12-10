@@ -19,5 +19,5 @@ The circuitry is very basic, as this is just a (pretty expensive, hah) LED chain
 
 All the design elements were created by Matt Venn and Adam Zeloof.  The circuits and schems are release on the creative commons BY-NC-SA (see LICENSE file for details).
 
-ASIC Necklace Circuits and PCBs © 2023 by Pat Deegan, psychogenic.com is licensed under CC BY-NC-SA 4.0 
+ASIC Necklace Circuits and PCBs © 2023 by Pat Deegan, psychogenic.com is licensed under CC BY-SA 4.0 
 
